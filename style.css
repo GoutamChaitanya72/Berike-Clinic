@@ -38,14 +38,12 @@ body{
   justify-content: center;
   height: 70vh;
   color: darkred;
-  font-size: 60px;
 }
 .home .about-content{
   margin: 250px auto 0 auto;
   color: white;
   position: relative;
   bottom: 190px;
-  font-size: 60px;
 }
 .home .about-content h1{
   color: darkred;
@@ -58,7 +56,6 @@ body{
   margin: 250px auto 0 auto;
   position: relative;
   bottom: 200px;
-  font-size: 60px;
 }
 .home .services-content h1{
   font-family: 'Bacasime Antique', serif;
@@ -67,9 +64,6 @@ body{
 .home .services-content ul{
   font-family: 'Playfair Display', serif;
   color: white;
-}
-.home .contact-content{
-  font-size: 60px;
 }
 .home .contact-content h1{
   font-family: 'Bacasime Antique', serif;
