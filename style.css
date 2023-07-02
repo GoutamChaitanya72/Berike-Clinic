@@ -24,7 +24,7 @@
   padding: 5px;
 }
 .home{
-  background: url("/background.jpg");
+  background: url("background.jpg");
   background-size: cover;
   height: 100vh;
 }
