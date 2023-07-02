@@ -35,12 +35,14 @@
   justify-content: center;
   height: 70vh;
   color: darkred;
+  font-size: 44px;
 }
 .home .about-content{
   margin: 250px auto 0 auto;
   color: white;
   position: relative;
   bottom: 190px;
+  font-size: 44px;
 }
 .home .about-content h1{
   color: darkred;
@@ -53,6 +55,7 @@
   margin: 250px auto 0 auto;
   position: relative;
   bottom: 200px;
+  font-size: 44px;
 }
 .home .services-content h1{
   font-family: 'Bacasime Antique', serif;
@@ -62,9 +65,8 @@
   font-family: 'Playfair Display', serif;
   color: white;
 }
-.home .web-services h1{
-  font-family: 'Bacasime Antique', serif;
-  color: darkred;
+.home .contact-content{
+  font-size: 44px;
 }
 .home .contact-content h1{
   font-family: 'Bacasime Antique', serif;
