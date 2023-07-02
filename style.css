@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Bacasime+Antique&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+.nav{
+  height: 50px;
+}
+.nav div{
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  padding: 15px;
+  font-size: 20px;
+  color: white;
+}
+.nav ul{
+  position: absolute;
+  right: 5px;
+}
+.nav ul li{
+  display: inline-block;
+}
+.nav ul li a{
+  color: darkred;
+  padding: 5px;
+}
+.home{
+  background: url("/background.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+.home .text-container{
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+  color: darkred;
+}
+.home .about-content{
+  margin: 250px auto 0 auto;
+  color: white;
+  position: relative;
+  bottom: 190px;
+}
+.home .about-content h1{
+  color: darkred;
+  font-family: 'Bacasime Antique', serif;
+}
+.home .about-content p{
+  font-family: 'Playfair Display', serif;
+}
+.home .services-content{
+  margin: 250px auto 0 auto;
+  position: relative;
+  bottom: 200px;
+}
+.home .services-content h1{
+  font-family: 'Bacasime Antique', serif;
+  color: darkred;
+}
+.home .services-content ul{
+  font-family: 'Playfair Display', serif;
+  color: white;
+}
+.home .web-services h1{
+  font-family: 'Bacasime Antique', serif;
+  color: darkred;
+}
+.home .contact-content h1{
+  font-family: 'Bacasime Antique', serif;
+  color: darkred;
+}
+.home .contact-content .address-holder{
+  font-family: 'Playfair Display', serif;
+  color: white;
+}
